@@ -1,0 +1,11 @@
+C:\Users\teshigawara\source\repos\やり直し\やり直し\bin\Debug\やり直し.exe.config
+C:\Users\teshigawara\source\repos\やり直し\やり直し\bin\Debug\やり直し.exe
+C:\Users\teshigawara\source\repos\やり直し\やり直し\bin\Debug\やり直し.pdb
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.csproj.AssemblyReference.cache
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.csproj.SuggestedBindingRedirects.cache
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.Form1.resources
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.Properties.Resources.resources
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.csproj.GenerateResource.cache
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.csproj.CoreCompileInputs.cache
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.exe
+C:\Users\teshigawara\source\repos\やり直し\やり直し\obj\Debug\やり直し.pdb
